@@ -24,6 +24,7 @@
             src="https://custom-icon-badges.demolab.com/github/followers/thaleszm?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+     <a href="https://instagram.com/022.marquess" target="_blank"><img alt="Seguidores" title="Me siga no Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </p>
 
 ---
