@@ -2,9 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-🛠️ Técnico em Automação Industrial.
-<br>
-🖥️ Aprimorando habilidades em Web Design (Front-End), Python e Back-End.
+🖥️ Aprimorando habilidades em Full Stack (Front-End e Back-End).
 <br>
 📖 Sempre em busca de novos aprendizados e aperfeiçoamento técnico.
 <br>
