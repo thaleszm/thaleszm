@@ -1,18 +1,6 @@
 # 💻 Thales Marques
 
-**`Desenvolvedor Front-End`**
-
 🖥️ Aprimorando habilidades em Full Stack (Front-End e Back-End).
-<br>
-📖 Sempre em busca de novos aprendizados e aperfeiçoamento técnico.
-<br>
-📚 Alta perfomance em C e C++.
-<br>
-🌍 Especializando-se em desenvolvimento web e integração de sistemas.
-<br>
-📂 Explorando bancos de dados relacionais e NoSQL para soluções escaláveis.
-<br>
-🧑‍💻 Domínio de HTML, CSS, JavaScript e frameworks modernos.
 
 <p align="left">
     <a href="https://github.com/thaleszm?tab=followers">
