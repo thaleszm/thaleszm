@@ -1,4 +1,4 @@
-# ​🧑🏼‍💻​ Thales Marques
+# ​ Thales Marques
 
 🖥️ Aprimorando habilidades em Full Stack (Front-End e Back-End).
 
