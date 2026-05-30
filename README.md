@@ -77,7 +77,7 @@ I enjoy creating solutions that combine **logic, creativity,** and **technology*
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thaleszm&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaleszm&layout=compact&theme=tokyonight" />
 </p>
 
