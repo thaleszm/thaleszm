@@ -10,37 +10,6 @@ I enjoy creating solutions that combine **logic, creativity,** and **technology*
 
 ---
 
-## 🌐 Where to find me
-
-<p align="left">
-  <a href="https://github.com/thaleszm">
-    <img src="https://img.shields.io/badge/GitHub-thaleszm-181717?style=for-the-badge&logo=github" />
-  </a>
-    <br/>
-  <a href="https://instagram.com/022.marquess">
-    <img src="https://img.shields.io/badge/Instagram-@022.marquess-000000?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-    <br/>
-  <a href="https://www.tiktok.com/@022.marquess">
-    <img src="https://img.shields.io/badge/TikTok-@022.marques-000000?style=for-the-badge&logo=tiktok" />
-  </a>
-</p>
-
----
-
-## 🧠 What I do
-
--   🌐 Full Stack Development
--    ⚡ Performance optimization
--   🧩 Clean architecture & system design
--   🔐 Secure APIs & authentication
--   💳 Payments, subscriptions & business logic
--   🤖 Automation & integrations
--   📊 Dashboards & analytics
--   🎓 Education and Technology
-
----
-
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -71,6 +40,37 @@ I enjoy creating solutions that combine **logic, creativity,** and **technology*
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 🌐 Where to find me
+
+<p align="left">
+  <a href="https://github.com/thaleszm">
+    <img src="https://img.shields.io/badge/GitHub-thaleszm-181717?style=for-the-badge&logo=github" />
+  </a>
+    <br/>
+  <a href="https://instagram.com/022.marquess">
+    <img src="https://img.shields.io/badge/Instagram-@022.marquess-000000?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+    <br/>
+  <a href="https://www.tiktok.com/@022.marquess">
+    <img src="https://img.shields.io/badge/TikTok-@022.marques-000000?style=for-the-badge&logo=tiktok" />
+  </a>
+</p>
+
+---
+
+## 🧠 What I do
+
+-   🌐 Full Stack Development
+-    ⚡ Performance optimization
+-   🧩 Clean architecture & system design
+-   🔐 Secure APIs & authentication
+-   💳 Payments, subscriptions & business logic
+-   🤖 Automation & integrations
+-   📊 Dashboards & analytics
+-   🎓 Education and Technology
 
 ---
 
